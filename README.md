@@ -12,4 +12,4 @@ My first repository
 * **Thanos** – A warlord from Titan who erased half of all life in the universe and fights to stop the Avengers from reversing his actions.
 
 ## Plot Summary
-After Thanos wipes out half of all life in the universe, the remaining Avengers and their allies regroup five years later to use the quantum realm for a time heist to retrieve the Infinity Stones and restore what was lost
+After Thanos wipes out half of all life in the universe, the remaining Avengers and their allies regroup five years later to use the quantum realm for a time heist to retrieve the Infinity Stones and restore what was lost.
